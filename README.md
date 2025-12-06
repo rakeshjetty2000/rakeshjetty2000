@@ -20,7 +20,7 @@ I love transforming raw numbers into meaningful stories and building dashboards 
 <p> <a href="https://www.linkedin.com/in/rakesh-jetty-rj242" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:rakesh.jetty2000@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 ### 📊 Projects
- **•Coffee Shop Sales Analysis**
+ **Coffee Shop Sales Analysis**
  
 - SQL cleaning & transforming 10k+ records
 
@@ -30,19 +30,19 @@ I love transforming raw numbers into meaningful stories and building dashboards 
 
  **Indian MP Election Results 2024 Analysis**
  
-• SQL Server (Joins, CTEs, Subqueries)
+- SQL Server (Joins, CTEs, Subqueries)
 
-• Historical & constituency trend analysis
+- Historical & constituency trend analysis
 
-• Party performance visualizations
+- Party performance visualizations
 
 **Maven Market Analysis**
 
-• Designed Star Schema
+- Designed Star Schema
 
-• DAX calculations & optimized relationships
+- DAX calculations & optimized relationships
 
-• Sales, profit & customer dashboards
+- Sales, profit & customer dashboards
 
 ### 🏅 Certifications
 
