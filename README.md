@@ -44,7 +44,7 @@ I love transforming raw numbers into meaningful stories and building dashboards 
 
 • Sales, profit & customer dashboards
 
-🏅 Certifications
+### 🏅 Certifications
 
 • SQL Using AI Workshop
 
