@@ -1,12 +1,17 @@
-<h1 align="center">Hi 👋, I'm Rakesh Jetty</h1>
-<h3 align="center">Building Interactive Dashboards & Analytical Solutions</h3>
+🎯 About Me
 
-- 📫 How to reach me **rakesh.jetty2000@gmail.com**
+I’m Rakesh Jetty, an aspiring Data Analyst passionate about uncovering insights from data.
+I love transforming raw numbers into meaningful stories and building dashboards that help people make smart decisions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rakesh-jetty-rj242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakesh-jetty-rj242/" height="30" width="40" /></a>
-</p>
+📚 What I’m Working On
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+• 📈 Building interactive dashboards
+
+• 🧹 Cleaning and analyzing datasets using SQL
+
+• 📊 Experimenting with Power BI visuals
+
+• 🤝 Learning new BI techniques and tools
+
+💻 Tech Stack:
+<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </p>
