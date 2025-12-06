@@ -20,13 +20,13 @@ I love transforming raw numbers into meaningful stories and building dashboards 
 <p> <a href="https://www.linkedin.com/in/rakesh-jetty-rj242" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:rakesh.jetty2000@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 ### 📊 Projects
- **Coffee Shop Sales Analysis**
+ **•Coffee Shop Sales Analysis**
  
-• SQL cleaning & transforming 10k+ records
+- SQL cleaning & transforming 10k+ records
 
-• Power BI dashboard for sales & customer insights
+- Power BI dashboard for sales & customer insights
 
-• Identified top products and peak hours
+- Identified top products and peak hours
 
  **Indian MP Election Results 2024 Analysis**
  
