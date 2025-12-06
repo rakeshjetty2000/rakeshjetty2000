@@ -21,22 +21,33 @@ I love transforming raw numbers into meaningful stories and building dashboards 
 
 ### 📊 Projects
  **Coffee Shop Sales Analysis**
+ 
 • SQL cleaning & transforming 10k+ records
+
 • Power BI dashboard for sales & customer insights
+
 • Identified top products and peak hours
 
  **Indian MP Election Results 2024 Analysis**
+ 
 • SQL Server (Joins, CTEs, Subqueries)
+
 • Historical & constituency trend analysis
+
 • Party performance visualizations
 
 **Maven Market Analysis**
+
 • Designed Star Schema
+
 • DAX calculations & optimized relationships
+
 • Sales, profit & customer dashboards
 
 🏅 Certifications
 
 • SQL Using AI Workshop
+
 • Power BI Workshop
+
 • Microsoft Power BI – Course Completion
