@@ -40,8 +40,6 @@ I love transforming raw numbers into meaningful stories and building dashboards 
 
 🏅 Certifications
 
-SQL Using AI Workshop
-
-Power BI Workshop
-
-Microsoft Power BI – Course Completion
+• SQL Using AI Workshop
+• Power BI Workshop
+• Microsoft Power BI – Course Completion
